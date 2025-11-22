@@ -10,9 +10,9 @@ It contains short exercises and small code snippets covering a wide range of fun
 At this stage of my learning journey, my goal is simple:
 build a solid foundation in Python through hands-on coding.
 In the long term, I aim to apply these skills to areas such as:
-	•	Data analysis
-	•	Automation
-	•	Aerospace engineering applications
+-	•	Data analysis
+-	•	Automation
+-	•	Aerospace engineering applications
   
 📂 Repository Structure by concept levels
 	•	basics/
