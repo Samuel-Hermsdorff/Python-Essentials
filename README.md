@@ -1,12 +1,12 @@
-📘 #Python-essentials#
+📘 # Python-essentials
 
 A collection of Python exercises, small scripts, and learning projects.
 
-📌 Overview
+📌 **Overview**
 Python Pills is a personal repository where I document my progress while learning Python.
 It contains short exercises and small code snippets covering a wide range of fundamental programming concepts.
 
-🎯 Purpose
+🎯 **Purpose**
 At this stage of my learning journey, my goal is simple:
 build a solid foundation in Python through hands-on coding.
 In the long term, I aim to apply these skills to areas such as:
@@ -14,10 +14,10 @@ In the long term, I aim to apply these skills to areas such as:
 -	Automation
 -	Aerospace engineering applications
   
-📂 Repository Structure by concept levels
+📂 **Repository Structure** - by concept levels
 -	basics/
 -	intermediate/
 -	advanced/
 
-🤝 Contributions
+🤝 **Contributions**
 This is a personal learning repository, but feedback and suggestions are always welcome.
