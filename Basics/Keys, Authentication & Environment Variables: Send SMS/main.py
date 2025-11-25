@@ -1,12 +1,10 @@
 import requests
 from twilio.rest import Client
 
-# failsafe twilio account: EA8QHFADUX7372WP95VS5DZ7
-
-api_key = "583d3d704b57e05f79f857f64c5fd78f"
+api_key = "API_KEY"
 OWM_Endpoint = "https://api.openweathermap.org/data/2.5/forecast"
-account_sid = "AC73fae689870200474455d5a14fdd4f5d"
-auth_token = "c99f114c08a2d7b9c504e80e3ce48fce"
+account_sid = "ACCOUNT_SID"
+auth_token = "AUTH_TOKEN"
 
 parameters = {
     "lat": -23.694450,
@@ -35,4 +33,5 @@ if will_rain:
 )
     print(message.status)
 weather_description = weather_data["list"][0]["weather"][0]["description"]
+
 print(weather_description)
