@@ -2,7 +2,7 @@ import requests
 from datetime import datetime
 
 USERNAME = "samuelhermsdorff"
-TOKEN = "jalsskjadrajaslksdf"
+TOKEN = "TOKEN"
 GRAPH_ID = "graph1"
 
 pixela_endpoint = "https://pixe.la/v1/users"
@@ -57,4 +57,5 @@ new_pixel_data = {
 # print(response.text)
 
 # response = requests.delete(url=update_endpoint, headers=headers, timeout=10)
+
 # print(response.text)
